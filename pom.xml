@@ -28,12 +28,12 @@
         <repository>
             <id>nexus-release</id>
             <name>Nexus Release Repository</name>
-            <url>http://10.202.202.155:8081/nexus/content/repositories/release/</url>
+            <url>http://10.202.192.238/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
             <id>nexus-snapshots</id>
             <name>Nexus Snapshot Repository</name>
-            <url>http://10.202.202.155:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://10.202.192.238/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 	
