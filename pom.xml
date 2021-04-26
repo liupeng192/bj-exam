@@ -14,7 +14,7 @@
 		<logstash.version>5.3</logstash.version>
 		<aspectjweaver.version>1.8.1</aspectjweaver.version>
 		<commons-lang3.version>3.3.2</commons-lang3.version>
-		<commons-io.version>2.4</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<guava.version>15.0</guava.version>
 		<freemarker.version>2.3.19</freemarker.version>
 		<shiro.version>1.5.2</shiro.version>
