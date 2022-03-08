@@ -20,7 +20,7 @@
 		<shiro.version>1.5.2</shiro.version>
 		<dbcp.version>1.4</dbcp.version>
 		<aopalliance.version>1.0</aopalliance.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>5.2.1</poi.version>
 		<project.builder.sourceEncoding>UTF-8</project.builder.sourceEncoding>
 	</properties>
 	
